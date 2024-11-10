@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voltaje</string>
+    
+    <string name="watts_description">Los <b>watts (W)</b> son la unidad de medida de la potencia eléctrica, que representa la cantidad de energía que un dispositivo consume o genera por segundo. En el caso de un dispositivo móvil, los watts miden la potencia que el dispositivo necesita para cargarse o funcionar.\b\bEn el contexto de la carga de un dispositivo móvil, los watts indican cuánta energía se está transfiriendo desde el cargador al teléfono por unidad de tiempo. Un cargador de alta potencia, como uno de 20W, proporciona una carga más rápida, mientras que uno de menor potencia (por ejemplo, 5W) lo hace más lentamente.</string>
+
+</resources>
